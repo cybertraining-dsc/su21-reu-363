@@ -1,6 +1,6 @@
 ---
 date: 2021-06-16
-title: # Project: FAMU Coding Project
+title: "Project: FAMU Coding Project"
 linkTitle: Example
 tags: ["project", "reu"]
 description: "Here comes the abstract"
