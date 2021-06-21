@@ -4,7 +4,7 @@ title: "Project: FAMU Coding Project"
 linkTitle: Example
 tags: ["project", "reu"]
 description: "Here comes the abstract"
-author: Firstanme, Lastname
+author: Whitney, McNair
 github_url: https://github.com/cybertraining-dsc/su21-reu-363/edit/main/project/index.md
 resources:
 - src: "**.{png,jpg}"
@@ -16,7 +16,7 @@ resources:
 Status: draft, Type: Project
 
 
-Firstname Lastname, [su21-reu-363](https://github.com/cybertraining-dsc/su21-reu-363), [Edit](https://github.com/cybertraining-dsc/su21-reu-363/blob/main/project/index.md)
+Whitney McNair, [su21-reu-363](https://github.com/cybertraining-dsc/su21-reu-363), [Edit](https://github.com/cybertraining-dsc/su21-reu-363/blob/main/project/index.md)
 
 {{% pageinfo %}}
 
