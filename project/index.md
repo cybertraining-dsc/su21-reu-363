@@ -11,6 +11,8 @@ resources:
   title: "Image #:counter"
 ---
 
+- [ ] Title to vague
+
 [![Check Report](https://github.com/cybertraining-dsc/hid-example/workflows/Check%20Report/badge.svg)](https://github.com/cybertraining-dsc/su21-reu-363/actions)
 [![Status](https://github.com/cybertraining-dsc/hid-example/workflows/Status/badge.svg)](https://github.com/cybertraining-dsc/su21-reu-363/actions)
 Status: draft, Type: Project
