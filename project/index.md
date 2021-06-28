@@ -37,7 +37,6 @@ Contents
 
 - [ ] Find literature about AI and Orthodontics x-rays.
 - [ ] Analyze the literature and explain how ai or x-rays are beneficial.
-- [ ] 
 
 ## 2. Data Sets
 
@@ -50,15 +49,12 @@ Contents
       the download function.
 
 
-## 2.1. GitHub Actions
-
-
 ## 3. Using Images
 
 - [ ] Place a cool image into projects images in my directory
 - [ ] Correct the following link, replace the fa number with my su number and thne chart of png.
 - [ ] If  the image has been copied, you must use a reference such as shown in the Figure 1 caption.
-- [ ] 
+ 
 ![Figure 1](https://github.com/cybertraining-dsc/fa20-523-314/raw/main/project/images/chart.png)
 
 **Figure 1:** Images can be included in the report, but if they are copied you must cite them [^1].
