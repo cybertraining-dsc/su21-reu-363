@@ -35,13 +35,16 @@ Contents
 
 ## 1. Introduction
 
-- [ ] Find literature about AI and Orthodontics x-rays.
-- [ ] Analyze the literature and explain how ai or x-rays are beneficial.
+Dental field technology capability has increased over the past 25 years, and has helped reduce time, cost, medical errors, and dependence on human expertise[1]. Intelligence in orthodontics can learn, build, remember, understand and recognise designs from techniques used in correcting the teeth like retainers. Dental field can create alternatives, adapt to change and explore experiences with sub-groups of patients[reference].
+
 
 ## 2. Data Sets
 
-- [ ] Finding data sets in Orthodontics.
-- [ ] Can any of the data sets be used in AI?
+We find a dataset in kaggle website that is about dental images. The data was collected by Mr.Parth Chokhra. The name of the dataset is Dental Images of kjbjl. The dataset do not have metadata and explanation of how they collected. 
+
+The Dental Images of kjbjl dataset was used in AI already using autoencoders [find about autoencoders and write here]. 
+
+
 - [ ] What are the challenges with Orthodontics data set? Privacy, HIPPA, Size, Avalibility
 - [ ] Datasets can be huge and GitHub has limited space. Only very small datasets should be stored in GitHub.
       However, if the data is publicly available you program must contain a download function instead that you customize.
@@ -89,8 +92,24 @@ Please add acknowledgments to all that contributed or helped on this project.
 
 [^1]: Use of energy explained - Energy use in homes, [Online resource] 
       <https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php>
-
-
-[^2]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] 
+      
+      
+[^2]: Use of energy explained - Energy use in homes, [Online resource] 
+      <https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php>
+      
+      
+[^3]: Use of energy explained - Energy use in homes, [Online resource] 
+      <https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php>
+      
+      
+[^4]: Use of energy explained - Energy use in homes, [Online resource] 
+      <https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php>
+      
+      
+[^5]: Use of energy explained - Energy use in homes, [Online resource] 
+      <https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php>
+      
+      
+[^6]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] 
       <https://github.com/cloudmesh/cloudmesh-common>
 
