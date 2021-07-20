@@ -35,7 +35,7 @@ Contents
 
 ## 1. Introduction
 
-Dental field technology capability has increased over the past 25 years, and has helped reduce time, cost, medical errors, and dependence on human expertise[1]. Intelligence in orthodontics can learn, build, remember, understand and recognize designs from techniques used in correcting the teeth like retainers. Dental field can create alternatives, adapt to change and explore experiences with sub-groups of patients[reference]. AI has taken part of the dental field by accurately and efficiently processes the best data from treatments.
+Dental field technology capability has increased over the past 25 years, and has helped reduce time, cost, medical errors, and dependence on human expertise[1]. Intelligence in orthodontics can learn, build, remember, understand and recognize designs from techniques used in correcting the teeth like retainers. Dental field can create alternatives, adapt to change and explore experiences with sub-groups of patients[reference]. AI has taken part of the dental field by accurately and efficiently processes the best data from treatments. For smart use of Health Data, machine learning and artificial intelligence (AI) are expected to promote further development of the digital revolution in (dental) medicine using algorithms to simulate human cognition in the analysis of complex data. The performance is better, the higher the degree of repetitive pattern and the larger the amount of accessible data[5].
 
 
 ## 2. Data Sets
@@ -95,20 +95,17 @@ Please add acknowledgments to all that contributed or helped on this project.
       <https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php>
       
       
-[^2]: Use of energy explained - Energy use in homes, [Online resource] 
-      <https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php>
+[^2]: <Bichu, Y.M., Hansa, I., Bichu, A.Y. et al. Applications of artificial intelligence and machine learning in orthodontics: a scoping review. Prog Orthod. 22, 18 (2021).>
       
       
-[^3]: Use of energy explained - Energy use in homes, [Online resource] 
-      <https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php>
+[^3]: <DivyaSwarup,DeepakSingh,SinghSwarndeep,AhmadNaeem,SahaiRicha.Artificialintelligence(A.I.)Inorthodontics.JournalofScience,2017;7(9):304-307>
       
       
-[^4]: Use of energy explained - Energy use in homes, [Online resource] 
-      <https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php>
+[^4]: <S. Murata, C. Lee, C. Tanikawa and S. Date, "Towards a Fully Automated Diagnostic System for Orthodontic Treatment in Dentistry," 2017 IEEE 13th International Conference on e-Science (e-Science), 2017, pp. 1-8, doi: 10.1109/eScience.2017.12.>
       
       
-[^5]: Use of energy explained - Energy use in homes, [Online resource] 
-      <https://www.eia.gov/energyexplained/use-of-energy/electricity-use-in-homes.php>
+[^5]: Privacy Policy. American Association of Orthodontists. (n.d.).
+      <https://www3.aaoinfo.org/_/privacy-policy/. >
       
       
 [^6]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] 
