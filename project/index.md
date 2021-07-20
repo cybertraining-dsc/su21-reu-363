@@ -35,17 +35,18 @@ Contents
 
 ## 1. Introduction
 
-Dental field technology capability has increased over the past 25 years, and has helped reduce time, cost, medical errors, and dependence on human expertise[1]. Intelligence in orthodontics can learn, build, remember, understand and recognise designs from techniques used in correcting the teeth like retainers. Dental field can create alternatives, adapt to change and explore experiences with sub-groups of patients[reference].
+Dental field technology capability has increased over the past 25 years, and has helped reduce time, cost, medical errors, and dependence on human expertise[1]. Intelligence in orthodontics can learn, build, remember, understand and recognize designs from techniques used in correcting the teeth like retainers. Dental field can create alternatives, adapt to change and explore experiences with sub-groups of patients[reference]. AI has taken part of the dental field by accurately and efficiently processes the best data from treatments.
 
 
 ## 2. Data Sets
 
-We find a dataset in kaggle website that is about dental images. The data was collected by Mr.Parth Chokhra. The name of the dataset is Dental Images of kjbjl. The dataset do not have metadata and explanation of how they collected. 
+We found a dataset in kaggle website that is about dental images. The data was collected by Mr. Parth Chokhra. The name of the dataset is Dental Images of kjbjl. The dataset do not have metadata and explanation of how they collected. 
 
 The Dental Images of kjbjl dataset was used in AI already using autoencoders [find about autoencoders and write here]. 
 
 
 - [ ] What are the challenges with Orthodontics data set? Privacy, HIPPA, Size, Avalibility
+Some challenges with Orthodontics data sets like 
 - [ ] Datasets can be huge and GitHub has limited space. Only very small datasets should be stored in GitHub.
       However, if the data is publicly available you program must contain a download function instead that you customize.
       Write it using pythons `request`. You will get point deductions if you check-in data sets that are large and do not use
