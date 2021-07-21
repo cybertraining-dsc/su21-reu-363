@@ -45,8 +45,16 @@ We found a dataset in kaggle website that is about dental images. The data was c
 The Dental Images of kjbjl dataset was used in AI already using autoencoders [find about autoencoders and write here]. 
 
 
-- [ ] What are the challenges with Orthodontics data set? Privacy, HIPPA, Size, Avalibility
-Some challenges with Orthodontics data sets like 
+Describe the data that was in the paper.
+
+
+- [ ] What are the challenges with Orthodontics data set? Privacy, HIPAA, Size, Avalibility
+Some challenges with Orthodontics data sets with privacy 
+
+
+explain how its hard to find
+
+
 - [ ] Datasets can be huge and GitHub has limited space. Only very small datasets should be stored in GitHub.
       However, if the data is publicly available you program must contain a download function instead that you customize.
       Write it using pythons `request`. You will get point deductions if you check-in data sets that are large and do not use
@@ -63,24 +71,39 @@ Some challenges with Orthodontics data sets like
 
 **Figure 1:** Images can be included in the report, but if they are copied you must cite them [^1].
 
+
+Place image of x ray and url of the kaggle images. Talk about what and how etc. the images are about and look like and what you can do with them.
+
+
 ## 5. Example of a AI algorighm in Orthodontics
 
 - [ ] Identify the concrete data sets that will be used.
 - [ ] Identify the concrete algorighm to analyze the data sets.
-- [ ] Write the program.
-- [ ] Verify that it works.
+
+
+Read over google scholar review page on orthondontics about their research and algorighm (if used). 
+
 
 ## 6. Benchmark
 
 Your project must include a benchmark. The easiest is to use cloudmesh-common [^2]
  
+ 
+ Talk about the matrics in the google scholar review says. The matrics that the researchers are using to study the performance of their algorighns or code.
+ 
+ 
 ## 6. Conclusion
 
 A convincing but not fake conclusion should summarize what the conclusion of the project is.
 
+
+What the researchers have done in conclusion. "... used these algorigns to...."
+
+
 ## 8. Acknowledgments
 
 - [ ] Gregor guided me throughout this process.
+- [ ] Carlos guided me throughout this process.
  
 Please add acknowledgments to all that contributed or helped on this project.  
 
@@ -110,4 +133,8 @@ Please add acknowledgments to all that contributed or helped on this project.
       
 [^6]: Gregor von Laszewski, Cloudmesh StopWatch and Benchmark from the Cloudmesh Common Library, [GitHub] 
       <https://github.com/cloudmesh/cloudmesh-common>
+
+
+Change 6 reference and replace with google scholar research paper.
+
 
