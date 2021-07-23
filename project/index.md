@@ -40,9 +40,8 @@ Dental field technology capability has increased over the past 25 years, and has
 
 ## 2. Data Sets
 
-We found a dataset in kaggle website that is about dental images. The data was collected by Mr. Parth Chokhra. The name of the dataset is Dental Images of kjbjl. The dataset do not have metadata and explanation of how they collected. 
+We found a dataset in kaggle website that is about dental images. The data was collected by Mr. Parth Chokhra. The name of the dataset is Dental Images of kjbjl. The dataset did not have metadata and an explanation of how they collected the data. The data set supports how x-rays of teeth in dentistry becomes artificial intelligence. The Dental Images of kjbjl dataset was used in AI already using autoencoders. Autoencoders are an freely artificial neural network (located in the nervous system) that learns how to accurately encode data and reconstruct the data back from the reduced encoded representation to a representation that is as close to the original input as possible.
 
-The Dental Images of kjbjl dataset was used in AI already using autoencoders [find about autoencoders and write here]. 
 
 
 Describe the data that was in the paper.
