@@ -35,7 +35,7 @@ Contents
 
 ## 1. Introduction
 
-Dental field technology capability has increased over the past 25 years, and has helped reduce time, cost, medical errors, and dependence on human expertise. Intelligence in orthodontics can learn, build, remember, understand and recognize designs from techniques used in correcting the teeth like retainers. Dental field can create alternatives, adapt to change and explore experiences with sub-groups of patients. AI has taken part of the dental field by accurately and efficiently processing the best data from treatments. For smart use of Health Data, machine learning and artificial intelligence are expected to promote further development of the digital revolution in (dental) medicine, like x-rays, using algorithms to simulate human cognition in the analysis of complex data. The performance is better, the higher the degree of repetitive pattern and the larger the amount of accessible data[5].
+Dental field technology capability has increased over the past 25 years, and has helped reduce time, cost, medical errors, and dependence on human expertise. Intelligence in orthodontics can learn, build, remember, understand and recognize designs from techniques used in correcting the teeth like retainers. Dental field can create alternatives, adapt to change and explore experiences with sub-groups of patients. AI has taken part of the dental field by accurately and efficiently processing the best data from treatments. For smart use of Health Data, machine learning and artificial intelligence are expected to promote further development of the digital revolution in (dental) medicine, like x-rays, using algorithms to simulate human cognition in the analysis of complex data. The performance is better, the higher the degree of repetitive pattern and the larger the amount of accessible data[^5].
 
 
 ## 2. Data Sets
@@ -45,7 +45,7 @@ We found a dataset on a kaggle website that is about dental images. The data was
 
 ## 3. Using Images
 
-Below we observed actual dental x-rays. These dental x-rays images below came from Parth Chorkhra on kaggle.com [1]. The images are patient x-rays taken by Parth in his dental imagery data set. In the images we can see the caps and nerves of the teeth. Using these x-rays, we may can also find cavities if there are some. We can also identify other issues with patients teeth by taking and using x-rays.
+Below we observed actual dental x-rays. These dental x-rays images below came from Parth Chorkhra on kaggle.com [^1]. The images are patient x-rays taken by Parth in his dental imagery data set. In the images we can see the caps and nerves of the teeth. Using these x-rays, we may can also find cavities if there are some. We can also identify other issues with patients teeth by taking and using x-rays.
 
 ![Figure 1](https://user-images.githubusercontent.com/85571628/127322590-3d92ee2c-92a0-4df5-849a-b89545a3ffc2.jpg)
 ![Figure 2](https://user-images.githubusercontent.com/85571628/127322621-184ac569-699f-452c-89c3-dcf87378574d.jpg)
@@ -54,7 +54,7 @@ Below we observed actual dental x-rays. These dental x-rays images below came fr
 
 ## 5. Example of a AI algorighm in Orthodontics
 
-On a separate kaggle website, we found a code for DENTAL PANORAMIC KNN [5]. The kaggle site shows dental codes taken place in Orthodontics.
+On a separate kaggle website, we found a code for DENTAL PANORAMIC KNN [^5]. The kaggle site shows dental codes taken place in Orthodontics.
 
 
 ## 6. Benchmark
@@ -72,33 +72,31 @@ On a separate kaggle website, we found a code for DENTAL PANORAMIC KNN [5]. The 
  
 ## 6. Conclusion
 
-Artificial intelligence is rapidly expanding into multiple facets of society. Orthodontics may be one of the fastest branches of dentistry to adapt AI for three reasons. First, patient encounters during treatment generate many types of data. Second, the standardization in the field of dentistry is low compared to other areas of healthcare. A range of valid treatment options exists for any given case. Using AI and large datasets (that include diagnostic results, treatments, and outcomes), one can now measure the effectiveness of different treatment modalities given very specific clinical findings and conditions. Third, orthodontics is largely practiced by independent dentists in their own clinics. Despite the promise of AI, the volume of orthodontic research in this field is relatively low. Further, the clinical accuracy of AI must be improved with an increased number and variety of cases. Before AI can take on a more important role in making diagnostic recommendations, the volume and quality of research data will need to increase.[5]
+Artificial intelligence is rapidly expanding into multiple facets of society. Orthodontics may be one of the fastest branches of dentistry to adapt AI for three reasons. First, patient encounters during treatment generate many types of data. Second, the standardization in the field of dentistry is low compared to other areas of healthcare. A range of valid treatment options exists for any given case. Using AI and large datasets (that include diagnostic results, treatments, and outcomes), one can now measure the effectiveness of different treatment modalities given very specific clinical findings and conditions. Third, orthodontics is largely practiced by independent dentists in their own clinics. Despite the promise of AI, the volume of orthodontic research in this field is relatively low. Further, the clinical accuracy of AI must be improved with an increased number and variety of cases. Before AI can take on a more important role in making diagnostic recommendations, the volume and quality of research data will need to increase [^5].
 
 
 ## 8. Acknowledgments
 
-- [ ] Gregor guided me throughout this process.
-- [ ] Carlos guided me throughout this process.
-- [ ] Yohn guided me throughout this process.
- 
+Dr. Gregor von Laszewski, Carlos and Yohn guided me throughout this process.
+
  
 ## 9. References
 
 
-[^1]: Chokhra, P. (2020, June 29). Medical image dataset. Kaggle. <https://www.kaggle.com/parthplc/medical-image-dataset.> 
+[^1]: Chokhra, P. (2020, June 29). Medical image dataset. Kaggle. <https://www.kaggle.com/parthplc/medical-image-dataset>
       
       
-[^2]: EMBRACING NOVEL TECHNOLOGIES IN DENTISTRY AND ORTHODONTICS. (n.d.). <https://deepblue.lib.umich.edu/bitstream.>
+[^2]: EMBRACING NOVEL TECHNOLOGIES IN DENTISTRY AND ORTHODONTICS. (n.d.). <https://deepblue.lib.umich.edu/bitstream>
       
       
-[^3]: <DivyaSwarup, DeepakSingh, SinghSwarndeep, AhmadNaeem, SahaiRicha .Artificialintelligence(A.I.) Inorthodontics. JournalofScience ,2017 ;7(9) :304 -307>
+[^3]: DivyaSwarup, DeepakSingh, SinghSwarndeep, AhmadNaeem, SahaiRicha .Artificialintelligence(A.I.) Inorthodontics. JournalofScience ,2017 ;7(9) :304 -307
       
       
-[^4]: <S. Murata, C. Lee, C. Tanikawa and S. Date, "Towards a Fully Automated Diagnostic System for Orthodontic Treatment in Dentistry," 2017 IEEE 13th International Conference on e-Science (e-Science), 2017, pp. 1-8, doi: 10.1109/eScience.2017.12.>
+[^4]: S. Murata, C. Lee, C. Tanikawa and S. Date, "Towards a Fully Automated Diagnostic System for Orthodontic Treatment in Dentistry," 2017 IEEE 13th International Conference on e-Science (e-Science), 2017, pp. 1-8, doi: 10.1109/eScience.2017.12.
       
       
-[^5]: Hasnitadita. (2021, July 10). DENTAL panoramic knn. Kaggle. <https://www.kaggle.com/hasnitadita/dental-panoramic-knn.> 
+[^5]: Hasnitadita. (2021, July 10). DENTAL panoramic knn. Kaggle. <https://www.kaggle.com/hasnitadita/dental-panoramic-knn>
       
       
-[^6]: The challenge of eHealth data in Orthodontics. Define_me. (n.d.). <https://www.ajodo.org/article/S0889-5406(20)30801-5/fulltext.> 
+[^6]: The challenge of eHealth data in Orthodontics. Define_me. (n.d.). <https://www.ajodo.org/article/S0889-5406(20)30801-5/fulltext>
 
