@@ -82,21 +82,14 @@ Dr. Gregor von Laszewski, Carlos and Yohn guided me throughout this process.
  
 ## 9. References
 
-
 [^1]: Chokhra, P. (2020, June 29). Medical image dataset. Kaggle. <https://www.kaggle.com/parthplc/medical-image-dataset>
-      
-      
-[^2]: EMBRACING NOVEL TECHNOLOGIES IN DENTISTRY AND ORTHODONTICS. (n.d.). <https://deepblue.lib.umich.edu/bitstream>
-      
-      
-[^3]: DivyaSwarup, DeepakSingh, SinghSwarndeep, AhmadNaeem, SahaiRicha .Artificialintelligence(A.I.) Inorthodontics. JournalofScience ,2017 ;7(9) :304 -307
-      
-      
-[^4]: S. Murata, C. Lee, C. Tanikawa and S. Date, "Towards a Fully Automated Diagnostic System for Orthodontic Treatment in Dentistry," 2017 IEEE 13th International Conference on e-Science (e-Science), 2017, pp. 1-8, doi: 10.1109/eScience.2017.12.
-      
-      
-[^5]: Hasnitadita. (2021, July 10). DENTAL panoramic knn. Kaggle. <https://www.kaggle.com/hasnitadita/dental-panoramic-knn>
-      
-      
-[^6]: The challenge of eHealth data in Orthodontics. Define_me. (n.d.). <https://www.ajodo.org/article/S0889-5406(20)30801-5/fulltext>
 
+[^2]: EMBRACING NOVEL TECHNOLOGIES IN DENTISTRY AND ORTHODONTICS. (n.d.). <https://deepblue.lib.umich.edu/bitstream>
+
+[^3]: DivyaSwarup, DeepakSingh, SinghSwarndeep, AhmadNaeem, SahaiRicha .Artificialintelligence(A.I.) Inorthodontics. JournalofScience ,2017 ;7(9) :304 -307
+
+[^4]: S. Murata, C. Lee, C. Tanikawa and S. Date, "Towards a Fully Automated Diagnostic System for Orthodontic Treatment in Dentistry," 2017 IEEE 13th International Conference on e-Science (e-Science), 2017, pp. 1-8, doi: 10.1109/eScience.2017.12.
+
+[^5]: Hasnitadita. (2021, July 10). DENTAL panoramic knn. Kaggle. <https://www.kaggle.com/hasnitadita/dental-panoramic-knn>
+
+[^6]: The challenge of eHealth data in Orthodontics. Define_me. (n.d.). <https://www.ajodo.org/article/S0889-5406(20)30801-5/fulltext>
