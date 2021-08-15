@@ -47,38 +47,39 @@ We found a dataset on a kaggle website that is about dental images. The data was
 
 Below we observed actual dental x-rays. These dental x-rays images below came from Parth Chorkhra on kaggle.com [^1]. The images are patient x-rays taken by Parth in his dental imagery data set. In the images we can see the caps and nerves of the teeth. Using these x-rays, we may can also find cavities if there are some. We can also identify other issues with patients teeth by taking and using x-rays.
 
-![Figure 1](https://user-images.githubusercontent.com/85571628/127322590-3d92ee2c-92a0-4df5-849a-b89545a3ffc2.jpg)
-![Figure 2](https://user-images.githubusercontent.com/85571628/127322621-184ac569-699f-452c-89c3-dcf87378574d.jpg)
-![Figure 3](https://user-images.githubusercontent.com/85571628/127322655-1ec9172f-45fe-4648-9d55-6b028512ec1e.jpg)
+![Figure 1](https://github.com/cybertraining-dsc/su21-reu-363/raw/main/project/images/figure-1.jpg)
 
+**Figure 1:** First x-ray
+
+![Figure 2](https://github.com/cybertraining-dsc/su21-reu-363/raw/main/project/images/figure-2.jpg)
+
+**Figure 2:** Second x-ray
+
+![Figure 3](https://github.com/cybertraining-dsc/su21-reu-363/raw/main/project/images/figure-3.jpg)
+
+**Figure 3:** Third x-ray
 
 ## 5. Example of a AI algorighm in Orthodontics
 
 On a separate kaggle website, we found a code for DENTAL PANORAMIC KNN [^5]. The kaggle site shows dental codes taken place in Orthodontics.
 
-
 ## 6. Benchmark
  
- Here is an algorighn/code from one of the researchers we found. are using to study the performance of their algorighns or code.
+Here is an algorighn/code from one of the researchers we found. are using to study the performance of their algorighns or code.
  
- Lateral and frontal facial images of patients who visited the Orthodontic department (352 patients) were employed as the training and evaluation data. An experienced orthodontist examined all the facial images for each patient and identified as many clinically used facial traits during the orthodontic diagnosis process as possible (e.g., deviation of the lips, deviation of the mouth, asymmetry of the face, concave profile, upper lip retrusion, presence of scars). A sample patient’s image, a list of sample assessments (i.e., labels), and the multi-label data used in the work by Murata et al. are shown in Figure 1.
+Lateral and frontal facial images of patients who visited the Orthodontic department (352 patients) were employed as the training and evaluation data. An experienced orthodontist examined all the facial images for each patient and identified as many clinically used facial traits during the orthodontic diagnosis process as possible (e.g., deviation of the lips, deviation of the mouth, asymmetry of the face, concave profile, upper lip retrusion, presence of scars). A sample patient’s image, a list of sample assessments (i.e., labels), and the multi-label data used in the work by Murata et al. are shown in Figure 4.
  
- 
- Figure 1. Sample patient’s image and a list of sample assessments (i.e., labels) including the region of interest, evaluation, etc. In a previous study by Murata et al., they employed labels representing only the facial part (mouth, chin, and whole face), distorted direction (right and left), and its severity (severe, mild, no deviation).
- 
- 
- ![IMG_6251](https://user-images.githubusercontent.com/85571628/127335802-d49312a1-0c52-4063-8fbf-eade552483a5.jpg)
+![Figure 4](https://github.com/cybertraining-dsc/su21-reu-363/raw/main/project/images/figure-4.jpg)
 
+**Figure 4:** Sample patient’s image and a list of sample assessments (i.e., labels) including the region of interest, evaluation, etc. In a previous study by Murata et al., they employed labels representing only the facial part (mouth, chin, and whole face), distorted direction (right and left), and its severity (severe, mild, no deviation).
  
 ## 6. Conclusion
 
-Artificial intelligence is rapidly expanding into multiple facets of society. Orthodontics may be one of the fastest branches of dentistry to adapt AI for three reasons. First, patient encounters during treatment generate many types of data. Second, the standardization in the field of dentistry is low compared to other areas of healthcare. A range of valid treatment options exists for any given case. Using AI and large datasets (that include diagnostic results, treatments, and outcomes), one can now measure the effectiveness of different treatment modalities given very specific clinical findings and conditions. Third, orthodontics is largely practiced by independent dentists in their own clinics. Despite the promise of AI, the volume of orthodontic research in this field is relatively low. Further, the clinical accuracy of AI must be improved with an increased number and variety of cases. Before AI can take on a more important role in making diagnostic recommendations, the volume and quality of research data will need to increase [^5].
-
+Artificial intelligence is rapidly expanding into multiple facets of society. Orthodontics may be one of the fastest branches of dentistry to adapt AI for three reasons. First, patient encounters during treatment generate many types of data. Second, the standardization in the field of dentistry is low compared to other areas of healthcare. A range of valid treatment options exists for any given case. Using AI and large datasets (that include diagnostic results, treatments, and outcomes), one can now measure the effectiveness of different treatment modalities given very specific clinical findings and conditions. Third, orthodontics is largely practiced by independent dentists in their own clinics. Despite the promise of AI, the volume of orthodontic research in this field is relatively low. Further, the clinical accuracy of AI must be improved with an increased number and variety of cases. Before AI can take on a more important role in making diagnostic recommendations, the volume and quality of research data will need to increase[^5].
 
 ## 8. Acknowledgments
 
 Dr. Gregor von Laszewski, Carlos and Yohn guided me throughout this process.
-
  
 ## 9. References
 
