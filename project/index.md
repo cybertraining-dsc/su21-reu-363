@@ -2,7 +2,7 @@
 date: 2021-06-16
 title: "Report: AI in Orthodontics"
 linkTitle: Orthodontics
-tags: ["report", "reu", "ai", "orthodontics"]
+tags: ["report", "reu", "ai", "health"]
 description: "In this effort we are analyzing X-ray images in AI and identifying cavitites"
 author: Whitney, McNair
 github_url: https://github.com/cybertraining-dsc/su21-reu-363/edit/main/project/index.md
