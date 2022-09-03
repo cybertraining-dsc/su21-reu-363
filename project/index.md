@@ -78,7 +78,10 @@ Artificial intelligence is rapidly expanding into multiple facets of society. Or
 ## 7. Acknowledgments
 
 Dr. Gregor von Laszewski, Carlos and Yohn guided me throughout this process.
- 
+This project was in part supported by the NSF grant
+CyberTraining: CIC: CyberTraining for Students and Technologies
+from Generation Z with the awadrd numbers 1829704 and 2200409.
+
 ## 8. References
 
 [^1]: Chokhra, P. (2020, June 29). Medical image dataset. Kaggle. <https://www.kaggle.com/parthplc/medical-image-dataset>
